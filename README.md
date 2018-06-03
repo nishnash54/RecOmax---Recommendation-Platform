@@ -8,6 +8,7 @@ Recommendation Platform
  * For recommendation engine run Recommendation_engine.ipynb
  * For prediction engine run Prediction_engine.ipynb
  * Dashboard and notebooks [Demo website](https://recomax.netlify.com/) 
+
 If you don't want to run the scripts, the same are available on the [Demo website](https://recomax.netlify.com/)
 
 ### Problem statement
